@@ -1,0 +1,144 @@
+KEY,English,Chinese
+Flag,Flag-US,Flag-CN
+wechatLogin,wechat,微信登陆
+testLogin,test,测试登陆
+options,options,选项
+inputCode,inputCode,输入编码
+inputCode0,inputCode,零售
+inputCode1,inputCode0,输入零售数
+inputCode2,inputCode1,输入批发数
+inputCode3,inputCode2,输入进货数
+inputYear,input year,输入查询年
+num,Num:,库存：
+buttonSell,sell,贩卖
+buttonBuy,buy,进货
+buttonNew,New,新增
+buttonUpdate,Update,修改
+buttonDelete,Delete,删除
+buttonRefresh,Refresh,刷新
+book,book,图书管理
+book0,code,编码
+book1,type,类型
+book2,name,名称
+book3,format,规格
+book4,publisher,出版商
+book4,cost,成本
+book5,retail,零售价
+book6,wholesale,批发价
+book7,count,数量
+book8,notes,备注
+publisher,publisher,出版商
+posttype,posttype,职务
+booktype,booktype,书籍类型
+worker,worker,职员
+department,department,部门
+department0,code,编码
+department1,manager,经理
+department2,name,名称
+department3,sell type,销售类型
+department4,phone,电话
+department5,address,地址
+department6,cost,费用
+department7,notes,备注
+
+storage,storage,仓库
+storage0,code,编码
+storage1,manager,经理
+storage2,name,名称
+storage3,phone,电话
+storage4,address,地址
+storage5,cost,费用
+storage6,notes,备注
+
+screen,screen,筛选
+
+worker0,code,编码
+worker1,department,部门
+worker2,post,职务
+worker3,name,名称
+worker4,age,年龄
+worker5,gender,性别
+worker6,pay,薪资
+worker7,phone,电话
+worker8,address,地址
+worker9,notes,备注
+
+gender0,female,女
+gender1,male,男
+
+book,book,图书
+book0,code,编码
+book1,publisher,出版商
+book2,type,类型
+book3,name,名称
+book4,format,规格
+book5,cost,成本
+book6,retail,零售
+book7,wholesale,批发
+book8,notes,备注
+
+
+sale,sale,销售
+sale0,index,索引
+sale1,book code,图书编码
+sale2,num,进货
+sale3,retail,零售
+sale4,wholesale,批发
+sale5,discount,折扣
+sale6,cost,成本
+sale7,count,收入
+sale8,time,时间
+sale9,notes,备注
+
+
+stock,stock,库存
+stock0,id,索引
+stock1,book code,图书编码
+stock2,storage code,仓库编码
+stock3,num,数量
+stock4,notes,备注
+
+publisher0,code,编码
+publisher1,name,名称
+publisher2,phone,电话
+publisher3,address,地址
+publisher4,notes,备注
+
+bookType0,code,编码
+bookType1,name,类型
+bookType2,notes,备注
+
+postType0,code,编码
+postType1,name,名称
+postType2,notes,备注
+loginError,login error,登陆失败，请联系refox0@sina.com.cn。
+insertSuccess,insert successed.,数据添加成功。
+insertError,insert error.\nmake sure code is only one.,数据添加失败，\n请检测编码是否唯一。
+deleteError,delete error.,数据删除失败，\n已关联其他项。
+updateSuccess,update successed,数据更新成功。
+updateFailed,update failed,数据更新失败。。。
+
+left0,book,图书管理
+left00,book,图书
+left01,stock,库存
+left02,bookType,图书类型
+
+left1,storage,仓库管理
+left10,storage,购书中心&仓库
+
+left2,department,部门职员管理
+left20,department,部门
+left21,worker,职员
+left22,post type,职务
+
+left3,publisher,出版商管理
+left30,publisher,出版商
+
+top0,sale,销售
+top1,buy,库存
+top2,profit report,利润报表
+top3,sale report,销售报表
+
+
+
+profit,profit,利润
